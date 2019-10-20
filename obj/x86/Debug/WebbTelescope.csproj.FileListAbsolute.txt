@@ -1,0 +1,23 @@
+C:\Users\Adi Beslagic\AppData\Local\Temporary Projects\WebbTelescope\bin\Debug\WebbTelescope.exe
+C:\Users\Adi Beslagic\AppData\Local\Temporary Projects\WebbTelescope\bin\Debug\WebbTelescope.pdb
+C:\Users\Adi Beslagic\AppData\Local\Temporary Projects\WebbTelescope\obj\x86\Debug\WebbTelescope.Form1.resources
+C:\Users\Adi Beslagic\AppData\Local\Temporary Projects\WebbTelescope\obj\x86\Debug\WebbTelescope.Properties.Resources.resources
+C:\Users\Adi Beslagic\AppData\Local\Temporary Projects\WebbTelescope\obj\x86\Debug\WebbTelescope.csproj.GenerateResource.Cache
+C:\Users\Adi Beslagic\AppData\Local\Temporary Projects\WebbTelescope\obj\x86\Debug\WebbTelescope.exe
+C:\Users\Adi Beslagic\AppData\Local\Temporary Projects\WebbTelescope\obj\x86\Debug\WebbTelescope.pdb
+C:\Users\Adi Beslagic\Documents\Visual Studio 2010\Projects\WebbTelescope\WebbTelescope\obj\x86\Debug\WebbTelescope.exe
+C:\Users\Adi Beslagic\Documents\Visual Studio 2010\Projects\WebbTelescope\WebbTelescope\obj\x86\Debug\WebbTelescope.pdb
+C:\Users\Adi Beslagic\Documents\Visual Studio 2010\Projects\WebbTelescope\WebbTelescope\obj\x86\Debug\WebbTelescope.Form1.resources
+C:\Users\Adi Beslagic\Documents\Visual Studio 2010\Projects\WebbTelescope\WebbTelescope\obj\x86\Debug\WebbTelescope.Properties.Resources.resources
+C:\Users\Adi Beslagic\Documents\Visual Studio 2010\Projects\WebbTelescope\WebbTelescope\obj\x86\Debug\WebbTelescope.csproj.GenerateResource.Cache
+C:\Users\Adi Beslagic\Documents\Visual Studio 2010\Projects\WebbTelescope\WebbTelescope\bin\Debug\WebbTelescope.exe
+C:\Users\Adi Beslagic\Documents\Visual Studio 2010\Projects\WebbTelescope\WebbTelescope\bin\Debug\WebbTelescope.pdb
+C:\Users\Steam\Documents\Visual Studio 2010\Projects\WebbTelescope\WebbTelescope\obj\x86\Debug\WebbTelescope.exe
+C:\Users\Steam\Documents\Visual Studio 2010\Projects\WebbTelescope\WebbTelescope\obj\x86\Debug\WebbTelescope.pdb
+C:\Users\Steam\Documents\Visual Studio 2010\Projects\WebbTelescope\WebbTelescope\obj\x86\Debug\WebbTelescope.Form1.resources
+C:\Users\Steam\Documents\Visual Studio 2010\Projects\WebbTelescope\WebbTelescope\obj\x86\Debug\WebbTelescope.Properties.Resources.resources
+C:\Users\Steam\Documents\Visual Studio 2010\Projects\WebbTelescope\WebbTelescope\obj\x86\Debug\WebbTelescope.csproj.GenerateResource.Cache
+C:\Users\Steam\Documents\Visual Studio 2010\Projects\WebbTelescope\WebbTelescope\bin\Debug\WebbTelescope.exe
+C:\Users\Steam\Documents\Visual Studio 2010\Projects\WebbTelescope\WebbTelescope\bin\Debug\WebbTelescope.pdb
+C:\Users\Steam\Documents\Visual Studio 2010\Projects\WebbTelescope\obj\x86\Debug\WebbTelescope.exe
+C:\Users\Steam\Documents\Visual Studio 2010\Projects\WebbTelescope\obj\x86\Debug\WebbTelescope.pdb
